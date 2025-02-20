@@ -1,6 +1,6 @@
 # Memory Cat: Your Programming Command Companion
 
-[![GitHub release](https://img.shields.io/github/v/release/sasa00elsaedy/memory-cat)](https://github.com/sasa00elsaedy/memory-cat/releases)
+
 [![GitHub stars](https://img.shields.io/github/stars/sasa00elsaedy/memory-cat)](https://github.com/sasa00elsaedy/memory-cat/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/sasa00elsaedy/memory-cat)](https://github.com/sasa00elsaedy/memory-cat/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
