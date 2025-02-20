@@ -3,7 +3,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/sasa00elsaedy/memory-cat)](https://github.com/sasa00elsaedy/memory-cat/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/sasa00elsaedy/memory-cat)](https://github.com/sasa00elsaedy/memory-cat/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Tired of forgetting those essential programming commands and code snippets?**  Memory Cat is here to help! This application is designed to assist programmers of all levels, especially those who are learning, in remembering and organizing programming commands and code examples.
 
@@ -15,9 +14,6 @@
 *   **User-Friendly Interface:** Intuitive design makes it simple to add, edit, and manage your programming knowledge.
 *   **Version 1.0.0:** This is the initial release, with more features and improvements planned for the future.
 
-## Screenshots
-
-*(Include screenshots of your application here. Show the main interface, the organization of commands, and the export/import functionality. Animated GIFs demonstrating the app in action would be even better!)*
 
 ## Installation
 
@@ -25,8 +21,10 @@
 2.  **Run the installer:** If a setup package is provided, run it to install the application. Otherwise, extract the downloaded files and run `setup.exe`.
 
 ## How to Use
-
-*(Provide a brief tutorial or explanation of how to use the app. Include examples of adding a new command, organizing it into courses/modules/items, and using the export/import features.)*
+after installation you can add course and add module inside it 
+you can add items and commands inside modules
+and you can add commands inside items 
+you can export / import course or module or item
 
 ## Contributing
 
@@ -49,9 +47,7 @@ Contributions are welcome! If you'd like to contribute to Memory Cat, please fol
 
 If you have any questions or need help with Memory Cat, please open an issue on the [Issues](https://github.com/sasa00elsaedy/memory-cat/issues) page.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
