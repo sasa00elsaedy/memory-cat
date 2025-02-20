@@ -1,59 +1,57 @@
 # Memory Cat: Your Programming Command Companion
 
-
 [![GitHub stars](https://img.shields.io/github/stars/sasa00elsaedy/memory-cat)](https://github.com/sasa00elsaedy/memory-cat/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/sasa00elsaedy/memory-cat)](https://github.com/sasa00elsaedy/memory-cat/issues)
 
-**Tired of forgetting those essential programming commands and code snippets?**  Memory Cat is here to help! This application is designed to assist programmers of all levels, especially those who are learning, in remembering and organizing programming commands and code examples.
+## Overview
+
+**Struggling to remember essential programming commands and snippets?** Memory Cat is here to assist! Designed for programmers of all levels, this application helps you efficiently organize and retrieve programming commands, making learning and coding more seamless.
 
 ## Key Features
 
-*   **Organized Structure:** Commands are categorized into Courses, Modules, Items, and Commands for easy navigation and retrieval.
-*   **Detailed Explanations:** Each command comes with a clear explanation to reinforce understanding.
-*   **Export/Import Functionality:** Easily export and import Courses, Modules, and Items to share with others or back up your data.
-*   **User-Friendly Interface:** Intuitive design makes it simple to add, edit, and manage your programming knowledge.
-*   **Version 1.0.0:** This is the initial release, with more features and improvements planned for the future.
-
+- **Structured Organization:** Commands are categorized into Courses, Modules, Items, and Commands for easy navigation.
+- **Detailed Explanations:** Each command includes a clear explanation to enhance understanding.
+- **Export/Import Functionality:** Easily back up or share Courses, Modules, and Items.
+- **User-Friendly Interface:** Simple and intuitive design for effortless management.
+- **Version 1.0.0:** Initial release with exciting features and future improvements planned.
 
 ## Installation
 
-1.  **Download the latest version:** Go to the [version](https://github.com/sasa00elsaedy/memory-cat/raw/refs/heads/main/memory_cat.7z)
-2.  **Run the installer:** If a setup package is provided, run it to install the application. Otherwise, extract the downloaded files and run `setup.exe`.
+1. **Download the Latest Version:** [Click here to download](https://github.com/sasa00elsaedy/memory-cat/raw/refs/heads/main/memory_cat.7z).
+2. **Run the Installer:** If a setup package is available, run it for easy installation. Otherwise, extract the downloaded files and run `setup.exe`.
 
 ## How to Use
-after installation you can add course and add module inside it 
-you can add items and commands inside modules
-and you can add commands inside items 
-you can export / import course or module or item
+
+1. Create a **Course** to categorize your programming knowledge.
+2. Add **Modules** within each course.
+3. Inside each module, create **Items** and **Commands**.
+4. You can also add commands directly under Items.
+5. Use the **Export/Import** feature to back up or share your data.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to Memory Cat, please follow these steps:
+Contributions are welcome! Follow these steps to contribute:
 
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them.
-4.  Push your changes to your fork.
-5.  Create a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Implement your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
 
 ## Planned Features
 
-*   Search functionality to quickly find commands.
-*   Cloud synchronization to access commands from any device.
-*   More customization options.
-*   Integration with popular IDEs.
+- **Search Functionality:** Quickly locate commands.
+- **Cloud Synchronization:** Access commands from any device.
+- **Customization Options:** Personalize your experience.
+- **IDE Integration:** Seamless workflow with popular development environments.
 
 ## Support
 
-If you have any questions or need help with Memory Cat, please open an issue on the [Issues](https://github.com/sasa00elsaedy/memory-cat/issues) page.
-
-
+For questions or assistance, please open an issue on the [Issues Page](https://github.com/sasa00elsaedy/memory-cat/issues).
 
 ## Contact
 
-*   **Developer:** Mustafa Abdullah
-*   **LinkedIn:** [https://www.linkedin.com/in/mustafa-abdullah-032205274/](https://www.linkedin.com/in/mustafa-abdullah-032205274/)
+- **Developer:** Mostafa Abdallah
+- **LinkedIn:** [Mostafa Abdallah](https://www.linkedin.com/in/sasa-elsaedy-032205274/)
 
-## Acknowledgements
 
-*(If you used any libraries or resources, mention them here.)*
